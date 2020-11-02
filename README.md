@@ -1,5 +1,5 @@
 <div align="center"  style="margin-bottom:30px">
-    <img src="src/images/alkonost-x7.png" alt="Alkonost X7" width='60'/>
+    <img src="src/images/alkonost-x7.png" alt="Alkonost X7" width='200'/>
 </div>
 
 <!-- <div align="center">
