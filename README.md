@@ -1,2 +1,2 @@
-# akonost-client
+# alkonost-client
 ambient music
