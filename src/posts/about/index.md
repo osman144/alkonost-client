@@ -3,12 +3,12 @@ title:  "About 🙋‍♂️"
 img: 
 description: "About Gatsby Starter Fresh Theme"
 keywords: about, gatsby
-date: 2020-07-12 16:00:00 +0530
+date: 2020-11-01 16:00:00 +0530
 blog: false
 
 ---
 
-Hi 👋, Welcome to the `gatsby-starter-fresh` theme. Hope you like this theme and use it for your personal blog! The blog has the following features:
+Hi 👋, Welcome to the `alkonost x7`. The blog has the following features:
 
 - Built with GatsbyJS
 - Blazing fast loading times
