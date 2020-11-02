@@ -13,18 +13,8 @@
 
 ## Features
 
-- Built with GatsbyJS
-- Blazing fast loading time
-- Mobile Friendly
-- High quality code (A)
-- Component seperated code
-- Custom 404 page
-- In-built contact form powered by Formspree
-- Markdown support for new posts
-- Code syntax highlighting
+- built with GatsbyJS, fast loading time, mobile Friendly, in-built contact form powered by Formspree
 - [Disqus](https://disqus.com/) support for comments
-- Supports PWA
-- Social Media icons
 - SEO friendly
 	- option to add meta description
 	- Sitemap Generation
@@ -38,16 +28,7 @@ cd gatsby-client/
 gatsby develop
 ```
 
-The site would be running live on ```http://localhost:8000```. Open the `gatsby-client` directory in a code editor of your choice and edit `gatsby-config.js` with your details:
-
-- Name
-- Description
-- Keywords
-- Social media usernames (twitter, facebook, github, email, linkedin, formspree)
-- Disqus `shortname` at `gatsby-plugin-disqus` plugin
-- `trackingID` at `gatsby-plugin-google-analytics` plugin
-
-Feel free to create new posts in the `src/posts` directory. The changes will be reflected in real-time on your browser.
+The site will be running live on ```http://localhost:8000```. 
 
 ## Lighthouse Audit Score
 
